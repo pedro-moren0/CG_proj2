@@ -1,0 +1,10 @@
+project(proj2)
+add_executable(${PROJECT_NAME}
+    camera.cpp
+    ground.cpp
+    enemy.cpp
+    bunny.cpp
+    main.cpp
+    openglwindow.cpp
+)
+enable_abcg(${PROJECT_NAME})

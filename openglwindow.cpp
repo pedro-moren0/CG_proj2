@@ -137,8 +137,8 @@ void OpenGLWindow::paintUI() {
 
 
         // Instructions window
-        ImGui::SetNextWindowSize(ImVec2(750, 150));
-        ImGui::SetNextWindowPos(ImVec2(m_viewportWidth - 750, 0));
+        ImGui::SetNextWindowSize(ImVec2(450, 150));
+        ImGui::SetNextWindowPos(ImVec2(m_viewportWidth - 450, 0));
 
         ImGui::Begin("Instructions", nullptr, ImGuiWindowFlags_NoResize);
         ImGui::Text("Controles: andar = {w = cima, s = baixo, a = direita, d = esquerda} |");

@@ -1,6 +1,7 @@
 # Projeto 2 - Computação Gráfica
 
-[Link para o Github pages com a aplicação](https://pedro-moren0.github.io/CG_proj1/proj1/)
+[Link para o Github pages com a aplicação](https://pedro-moren0.github.io/CG_proj2/proj2/)
+AVISO: Há um bug no webassembly que torna os inimigos invisíveis. Fora isso tudo funciona normalmente.
 
 ## Introdução
 

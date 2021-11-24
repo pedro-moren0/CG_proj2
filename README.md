@@ -2,6 +2,7 @@
 
 [Link para o Github pages com a aplicação](https://pedro-moren0.github.io/CG_proj2/proj2/)
 AVISO: Há um bug no webassembly que torna os inimigos invisíveis. Fora isso tudo funciona normalmente.
+[Link para o vídeo com a demonstração da aplicação](https://drive.google.com/file/d/1I_3bBXvPVraGp7s2I9Js2K7B8EphDCjp/view)
 
 ## Introdução
 
